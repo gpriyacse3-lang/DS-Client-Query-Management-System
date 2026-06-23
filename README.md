@@ -1,1 +1,0 @@
-# DS-Client-Query-Management-System
